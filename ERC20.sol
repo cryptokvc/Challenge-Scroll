@@ -674,3 +674,4 @@ contract TONCONTRAT is ERC20 {
     }
 }
  
+v1
